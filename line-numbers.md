@@ -6,11 +6,7 @@
 #### 6
 #### 7 Mr. Mulir
 #### 8
-<<<<<<< HEAD
-#### 9 Github is awesome
-=======
-#### 9 GitHub is really good.
->>>>>>> 22f5f4930893652bb5e279c8bcab034f06ec13be
+#### 9 GitHub is really awesome
 #### 10
 #### 11
 #### 12
